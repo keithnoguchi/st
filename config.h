@@ -128,7 +128,7 @@ static unsigned int mousebg = 0;
  * complex.
  */
 static unsigned int defaultitalic = 11;
-static unsigned int defaultunderline = 7;
+static unsigned int defaultunderline = 8;
 
 /*
  * Internal mouse shortcuts.
